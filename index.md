@@ -7,9 +7,11 @@ In this project, I examine the network of musical collaborations between ten of 
 
 Network Description and Laplacian Matrix
 This project’s network is focused on the relationships between my top-ten favorite hip-hop artists, all of whom are modern artists that often work with others on songs. I've carefully crafted this list based on both my personal taste as well as Apple Music statistics displaying how many hours I’ve spent listening to said artists. Rappers often feature other artists within their albums and said collaborations are often some of their most commercially successful songs released. There is an edge between two rappers if one features on the other’s song, or vice versa. The artists are displayed in the diagram below, with their numbering corresponding to the Laplacian matrix on the right.
-![My Remote Image]((https://ibb.co/J5hMfCS))
-![My Remote Image]((https://ibb.co/W3R9VF2))
 
+
+
+![My Remote Image](https://github.com/mkoster10/https-mkoster10.github.io-/blob/gh-pages/matrix%20image.png)
+![My ](https://github.com/mkoster10/https-mkoster10.github.io-/blob/gh-pages/network.png)
  
 The network above is clearly connected, indicating that λ2 is greater than zero. Thus, the multiplicity of eigenvalue 0 is solely 1, and we will not have to provide additional edges to the network. 
 
@@ -29,38 +31,3 @@ The logical conclusion from these findings is that rappers are much more likely 
 
 
 Song Features determined through presence of collaboration song (or lack thereof) on Amazon Music Library, Apple Music, Spotify and other streaming platforms
-Complex Magazine interviews with Brooklyn Rappers https://www.complex.com/music/brooklyn-drill-the-new-sound-of-new-york
-The Fader NBA Youngboy Interview https://www.thefader.com/2017/10/10/youngboy-nba-never-broke-again-cover-story-interview
-Breakfast Club Polo G Interview https://www.youtube.com/watch?v=5io3ZhHMRds 
-XXL No Cap Interview https://www.xxlmag.com/nocap-interview-the-break/  
-XXL Sleepy Hallow Interview https://www.xxlmag.com/sleepy-hallow-interview-the-break/  
-Quando Rondo w/ Angela Yee https://www.youtube.com/watch?v=dy2vINVwkXY
-No Jumper Lil Tjay https://www.youtube.com/watch?v=rDx_vNemzQM
-GQ Young Thug https://www.gq.com/story/young-thug-is-giving-you-what-you-want-to-hear
-
-
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
-
-### Jekyll Themes
