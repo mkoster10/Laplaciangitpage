@@ -8,11 +8,9 @@ In this project, I examine the network of musical collaborations between ten of 
 **Network Description and Laplacian Matrix**
 
 This project’s network is focused on the relationships between my top-ten favorite hip-hop artists, all of whom are modern artists that often work with others on songs. I've carefully crafted this list based on both my personal taste as well as Apple Music statistics displaying how many hours I’ve spent listening to said artists. Rappers often feature other artists within their albums and said collaborations are often some of their most commercially successful songs released. There is an edge between two rappers if one features on the other’s song, or vice versa. The artists are displayed in the diagram below, with their numbering corresponding to the Laplacian matrix on the right.
+<img src="img/network.png" alt="hi" class="inline"/>
+<img src="img/matrix image.png" alt="hi" class="inline"/>
 
-
-
-![My Remote Image](https://github.com/mkoster10/Laplaciangitpage/blob/gh-pages/matrix%20image.png)
-![My ](https://github.com/mkoster10/Laplaciangitpage/blob/gh-pages/network.png)
  
 The network above is clearly connected, indicating that λ2 is greater than zero. Thus, the multiplicity of eigenvalue 0 is solely 1, and we will not have to provide additional edges to the network. 
 
